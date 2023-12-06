@@ -1,0 +1,22 @@
+# NEW DOCUMENT: 157	twitter	M
+0	utente	utente	ADV		advmod	1
+1	utente	utente	ADV		advmod	2
+2	utente	utente	ADJ	Number=Sing	ROOT	2
+3	ma	ma	CCONJ		cc	5
+4	che	che	PRON	PronType=Rel	obj	5
+5	stai	staare	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	conj	2
+6	dicendo	dire	VERB	VerbForm=Ger	advcl	5
+7	?	?	PUNCT		punct	2
+
+8	Perché	perché	ADV		advmod	10
+9	dovremo	dovere	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	aux	10
+10	parlare	parlare	VERB	VerbForm=Inf	ROOT	10
+11	segretamente	segretamente	ADV		xcomp	10
+12	contro	contro	ADP		case	14
+13	di	di	ADP		fixed	12
+14	te	te	PRON	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	obl	10
+15	?	?	PUNCT		punct	10
+
+16	Non	non	ADV	PronType=Neg	advmod	17
+17	ha	avere	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ROOT	17
+18	senso	senso	NOUN	Gender=Masc|Number=Sing	obj	17
